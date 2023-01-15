@@ -1,3 +1,3 @@
 # Linkedin-skill-assessments-solution
 
-This LinkedIn-skill-assessment test was pulled from @Ebazhanov.
+This repositories is a basic solution to Linkedin coding asessnments
